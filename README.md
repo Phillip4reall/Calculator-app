@@ -20,7 +20,9 @@ A sleek, fully functional **scientific calculator app** built with **Flutter**, 
 
 | Basic Mode | Scientific Mode | History |
 |------------|------------------|---------|
-
+<img width="235" height="483" alt="basic" src="https://github.com/user-attachments/assets/6e3f9d22-c31a-4161-85d8-09319df8db06" />
+<img width="263" height="523" alt="sc" src="https://github.com/user-attachments/assets/d7c7f8b9-3e5e-49eb-8a65-bf61b1ab4899" />
+<img width="289" height="534" alt="his" src="https://github.com/user-attachments/assets/795adb97-7267-42d4-b704-d3085f0bcf34" />
 
 ---
 ## Click the link to use the calculator
